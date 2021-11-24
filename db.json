@@ -1,11 +1,11 @@
 {
-  "material-category": {
+  "material-category": [
     {
       "id": 1,
       "name": "Category 1",
-      "description": null
+      "description": ""
     }
-  },
+  ],
   "materials": [
     {
       "id": 1,
@@ -16,7 +16,7 @@
         "id": 1,
         "name": "Category 1",
       },
-      "description": null
+      "description": ""
     }
   ],
   "material-orders": [],
