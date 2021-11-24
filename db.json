@@ -1,22 +1,22 @@
 {
   "material-category": {
     {
-      id: 1,
-      name: "Category 1",
-      description: null
+      "id": 1,
+      "name": "Category 1",
+      "description": null
     }
   },
   "materials": [
     {
-      id: 1,
-      name: "Material 1",
-      unit: "yard",
-      color: "green",
-      category: {
-        id: 1,
-        name: "Category 1",
+      "id": 1,
+      "name": "Material 1",
+      "unit": "yard",
+      "color": "green",
+      "category": {
+        "id": 1,
+        "name": "Category 1",
       },
-      description: null
+      "description": null
     }
   ],
   "material-orders": [],
